@@ -1,9 +1,7 @@
 # NUMBER GUESSING GAME
 
 #include <iostream>
-
 #include <cstdlib>
-
 #include <ctime>
 
 using namespace std;
