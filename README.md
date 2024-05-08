@@ -1,13 +1,16 @@
 # NUMBER GUESSING GAME
 
 #include <iostream>
+
 #include <cstdlib>
+
 #include <ctime>
+
 using namespace std;
 
 int main()
 {
-	int num, guess, tries = 0;
+	int num, guess, tries = 0; 
 	srand(time (0)); 
 	num = rand() % 100 + 1; 
 	cout <<"Guess my number game\n\n"; 
