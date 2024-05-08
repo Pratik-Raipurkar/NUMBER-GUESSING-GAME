@@ -1,6 +1,5 @@
 # NUMBER GUESSING GAME
-
-#include <iostream>
+#include <isotream>
 #include <cstdlib>
 #include <ctime>
 
