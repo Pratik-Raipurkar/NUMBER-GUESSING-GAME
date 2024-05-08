@@ -1,11 +1,16 @@
 # NUMBER GUESSING GAME
 #include <isotream>
+
 #include <cstdlib>
+
 #include <ctime>
+
 
 using namespace std;
 
+
 int main()
+
 {
 	int num, guess, tries = 0; 
 	srand(time (0)); 
