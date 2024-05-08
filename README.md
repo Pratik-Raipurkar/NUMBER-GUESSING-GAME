@@ -1,13 +1,11 @@
 # NUMBER GUESSING GAME
+
 #include <isotream>
-
 #include <cstdlib>
-
 #include <ctime>
 
 
 using namespace std;
-
 
 int main()
 
